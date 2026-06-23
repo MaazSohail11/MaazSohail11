@@ -62,14 +62,28 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        🏆 GITHUB TROPHIES                            -->
+<!--                   📊 PROFILE SUMMARY CARDS                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Trophies
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Profile Insights
 
-<img src="https://github-profile-trophy.vercel.app/?username=MaazSohail11&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" />
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaazSohail11&theme=github_dark" width="820" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaazSohail11&theme=github_dark" width="390" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaazSohail11&theme=github_dark" width="390" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaazSohail11&theme=github_dark" width="390" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaazSohail11&theme=github_dark&utcOffset=5" width="390" />
 
 </div>
 
@@ -271,19 +285,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                   🐍 CONTRIBUTION SNAKE                               -->
+<!--                🏙️ 3D CONTRIBUTION SKYLINE                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🏙️ 3D Contribution Skyline
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaazSohail11/MaazSohail11/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaazSohail11/MaazSohail11/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MaazSohail11/MaazSohail11/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="3d-contrib" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </picture>
 
 </div>
