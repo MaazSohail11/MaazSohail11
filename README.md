@@ -12,7 +12,7 @@
 <!--                       ⌨️ TYPING ANIMATION                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%E2%9A%A1+Building+systems+that+connect+ideas+to+real+outcomes;%F0%9F%8E%AF+AI+%E2%80%A2+IoT+%E2%80%A2+Full-Stack+%E2%80%A2+Product+Engineering;%F0%9F%94%A5+Clean+architecture.+Useful+interfaces.+Real+impact." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Building+systems+that+connect+ideas+to+outcomes;AI+%E2%80%A2+IoT+%E2%80%A2+Full-Stack+%E2%80%A2+Product+Engineering;Clean+architecture.+Useful+interfaces.+Real+impact." alt="Typing SVG" /></a>
 
 <br/>
 
