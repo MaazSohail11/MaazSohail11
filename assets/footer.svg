@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="96" viewBox="0 0 1000 96" role="img" aria-labelledby="title desc">
+<title id="title">Build thoughtfully. Make it useful. — Maaz Sohail</title>
+<desc id="desc">Original vector illustration for Maaz Sohail's engineering portfolio. All elements are included in this file.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#30464f" stroke-width="0.6" opacity="0.45"/></pattern>
+  <linearGradient id="fade" x1="0" x2="1"><stop stop-color="#bdf4cf"/><stop offset="1" stop-color="#a8cfff"/></linearGradient>
+</defs>
+<g font-family="Segoe UI, Arial, sans-serif">
+<rect x="0.5" y="0.5" width="999" height="95" rx="20" fill="#101d25" stroke="#30464f" /><text x="32" y="57" fill="#bdf4cf" font-size="28" font-weight="600" >Build thoughtfully. Make it useful.</text><text x="966" y="55" fill="#afc0c3" font-size="13" font-weight="600" font-family="Consolas, monospace" letter-spacing="2" text-anchor="end">MAAZ SOHAIL</text></g></svg>

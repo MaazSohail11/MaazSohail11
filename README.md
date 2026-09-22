@@ -1,400 +1,123 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        🌊 ANIMATED HEADER                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,15:0a1628,30:0f172a,50:1e3a5f,70:0ea5e9,85:38bdf8,100:7dd3fc&text=Maaz%20Sohail&fontColor=e5f4ff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=⚡%20Engineer%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator&descSize=16&descAlignY=58&stroke=38bdf8&strokeWidth=1" width="100%" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       ⌨️ TYPING ANIMATION                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Building+systems+that+connect+ideas+to+outcomes;AI+%E2%80%A2+IoT+%E2%80%A2+Full-Stack+%E2%80%A2+Product+Engineering;Clean+architecture.+Useful+interfaces.+Real+impact." alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        🔗 SOCIAL BADGES                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<a href="https://github.com/MaazSohail11">
-  <img src="https://img.shields.io/badge/GitHub-MaazSohail11-020617?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=020617" />
-</a>
-&nbsp;
-<a href="https://pdffreeeditor.com">
-  <img src="https://img.shields.io/badge/🌐_PDF_Free_Editor-Live-020617?style=for-the-badge&labelColor=020617&color=0ea5e9" />
-</a>
-&nbsp;
-<a href="https://tempload.app">
-  <img src="https://img.shields.io/badge/🚀_Tempload-Live-020617?style=for-the-badge&labelColor=020617&color=14b8a6" />
-</a>
-
-<br/><br/>
-
-<a href="https://pdffreeeditor.com">
-  <img src="https://img.shields.io/badge/dynamic/json?label=%F0%9F%93%84%20PDF%20Documents%20Processed&query=%24.count&url=https%3A%2F%2Fsummer-waterfall-a2fa.maazsohail731.workers.dev%2Fcount&suffix=%2B&style=for-the-badge&color=38bdf8&labelColor=020617&cacheSeconds=300" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=MaazSohail11&style=for-the-badge&color=0ea5e9&labelColor=020617&label=PROFILE+VIEWS" />
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        ✨ DIVIDER                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-```
-⚡ "software is only impressive when it survives real use" ⚡
-```
-
-> _I build systems that connect ideas, interfaces, data, automation, and real workflows._
-> _Computer Engineering student turning rough ideas into working systems._
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                   📊 PROFILE SUMMARY CARDS                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Profile Insights
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaazSohail11&theme=github_dark" width="820" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaazSohail11&theme=github_dark" width="390" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaazSohail11&theme=github_dark" width="390" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaazSohail11&theme=github_dark" width="390" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MaazSohail11&theme=github_dark&utcOffset=5" width="390" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      📡 SIGNAL / EXPERTISE                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Signal
-
-</div>
-
-<table align="center">
-<tr>
-<td width="25%" align="center">
-
-### 🧠 AI
-<br/>
-
-`RAG Systems`
-`ML Pipelines`
-`Local Reasoning`
-`AI Agents`
-`Rule Engines`
-
-</td>
-<td width="25%" align="center">
-
-### ⚙️ Systems
-<br/>
-
-`Flask / Vite`
-`React / PHP`
-`MySQL / APIs`
-`Streamlit`
-`Cloudflare`
-
-</td>
-<td width="25%" align="center">
-
-### 🔌 Hardware
-<br/>
-
-`ESP32`
-`Sensors & Alerts`
-`Real-time Loops`
-`IoT Pipelines`
-`Edge Computing`
-
-</td>
-<td width="25%" align="center">
-
-### 🚀 Product
-<br/>
-
-`Privacy-First`
-`UX Design`
-`Documentation`
-`Shipping Fast`
-`User Research`
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       🎯 CURRENT SHAPE                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Current Shape
-
-</div>
-
-<div align="center">
-
-```
-🎯 focus        →  practical systems, product tools, automation, AI-assisted workflows
-🔧 style        →  build first, understand deeply, document clearly
-🌐 range        →  web apps, AI agents, IoT, databases, image processing, UI automation
-🧭 direction    →  becoming the kind of engineer who can own messy real-world problems
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        🗺️ WORK MAP                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Work Map
-
-<br/>
-
-<a href="https://github.com/MaazSohail11/MediGuard-AI-Drug-Label-Safety-Agent">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MaazSohail11&repo=MediGuard-AI-Drug-Label-Safety-Agent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=22c55e&border_radius=12" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/MaazSohail11/Drowsiness-Detection-System-with-ESP32">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MaazSohail11&repo=Drowsiness-Detection-System-with-ESP32&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=22c55e&border_radius=12" />
-</a>
-
-<a href="https://github.com/MaazSohail11/Figma-Screen-generator">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MaazSohail11&repo=Figma-Screen-generator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=22c55e&border_radius=12" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/MaazSohail11/multi-user-cloud-storage">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MaazSohail11&repo=multi-user-cloud-storage&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=22c55e&border_radius=12" />
-</a>
-
-<a href="https://github.com/MaazSohail11/Ecommerce-Marketplace-Database-Project">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MaazSohail11&repo=Ecommerce-Marketplace-Database-Project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=22c55e&border_radius=12" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/MaazSohail11/PixelForge-DSP-Photo-Editor">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=MaazSohail11&repo=PixelForge-DSP-Photo-Editor&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=22c55e&border_radius=12" />
-</a>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      🛠️ TECH STACK                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
-
-<br/>
-
-### 🔤 Languages
-<img src="https://skillicons.dev/icons?i=python,js,php,html,css&theme=dark" />
-
-<br/><br/>
-
-### 🏗️ Frameworks & Tools
-<img src="https://skillicons.dev/icons?i=react,vite,flask,mysql,streamlit&theme=dark" />
-
-<br/><br/>
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,cloudflare,vercel,docker&theme=dark" />
-
-<br/><br/>
-
-### 🎨 Design & Hardware
-<img src="https://skillicons.dev/icons?i=figma,arduino&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/OpenCV-020617?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
-<img src="https://img.shields.io/badge/MediaPipe-020617?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-020617?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-020617?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=4dabcf" />
-<img src="https://img.shields.io/badge/scikit--learn-020617?style=for-the-badge&logo=scikitlearn&logoColor=f7931e" />
-<img src="https://img.shields.io/badge/Streamlit-020617?style=for-the-badge&logo=streamlit&logoColor=ff4b4b" />
-<img src="https://img.shields.io/badge/ESP32-020617?style=for-the-badge&logo=espressif&logoColor=e7352c" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      📊 GITHUB STATS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
-
-<br/>
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=MaazSohail11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&icon_color=22c55e&rank_icon=github&border_radius=12&ring_color=38bdf8" />
-&nbsp;&nbsp;
-<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaazSohail11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=8b949e&border_radius=12" />
-
-<br/><br/>
-
-<img width="820" src="https://streak-stats.demolab.com?user=MaazSohail11&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=22C55E&currStreakLabel=38BDF8&sideLabels=8B949E&dates=6E7681&border_radius=12" />
-
-<br/><br/>
-
-<img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=MaazSohail11&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=38bdf8&point=22c55e&area=true&area_color=38bdf8&radius=12" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                🏙️ 3D CONTRIBUTION SKYLINE                             -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏙️ 3D Contribution Skyline
-
-<br/>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
-  <img alt="3d-contrib" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
+  <img src="./assets/hero.svg" width="100%" alt="Maaz Sohail — Computer Engineering student and product builder. Ideas into working systems. AI, full-stack software, and connected hardware.">
 </picture>
 
-</div>
+<p align="center">
+  <a href="#products"><b>Products</b></a> &nbsp; / &nbsp;
+  <a href="#engineering"><b>Engineering</b></a> &nbsp; / &nbsp;
+  <a href="#toolkit"><b>Toolkit</b></a> &nbsp; / &nbsp;
+  <a href="https://github.com/MaazSohail11?tab=repositories"><b>All repositories ↗</b></a>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## Good software earns its place in someone's day.
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      🧩 BUILD PATTERN                                 -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+I'm **Maaz**, a Computer Engineering student who likes taking a problem all the way from the first sketch to a working system. I build browser tools, AI applications, and connected hardware—with a particular interest in privacy, useful automation, and interfaces that make complex things feel simple.
 
-<div align="center">
+My work spans **document editing, temporary file sharing, explainable AI, computer vision, and database-backed applications**. I care about how the parts fit together: the interface, the processing, the data, and the person using the result.
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Build Pattern
+<a id="products"></a>
 
-</div>
+## 01 / Products you can use
 
-<table align="center">
-<tr>
-<td width="33%" align="center">
+### [PDF Free Editor ↗](https://pdffreeeditor.com)
 
-### 🔍 01 — Understand
-<br/>
+<a href="https://pdffreeeditor.com"><picture>
+  <source media="(max-width: 600px)" srcset="./assets/pdf-editor-mobile.svg">
+  <img src="./assets/pdf-editor.svg" width="100%" alt="PDF Free Editor illustration: a document moves through editing tools to an export. Edit, sign, merge, and convert in the browser.">
+</picture></a>
 
-_Understand the workflow_
-_before touching the UI._
+**Everyday document work, with less friction.** A browser-based toolkit for editing, signing, merging, splitting, compressing, and converting PDFs. Core editing happens on the device by default, without requiring an account or adding a watermark.
 
-> Think first. Build second.
+**Engineering focus:** document workflows, client-side processing, and a clear path from opening a file to exporting the result.
 
-</td>
-<td width="33%" align="center">
+[Open the editor](https://pdffreeeditor.com) · [Explore the documentation](https://github.com/MaazSohail11/pdffreeeditor-docs)
 
-### ⚡ 02 — Ship
-<br/>
+### [Tempload ↗](https://tempload.app)
 
-_Make the system work_
-_end-to-end before polishing._
+<a href="https://tempload.app"><picture>
+  <source media="(max-width: 600px)" srcset="./assets/tempload-mobile.svg">
+  <img src="./assets/tempload.svg" width="100%" alt="Tempload illustration: upload a file, share a link, and unlock with a PIN. Temporary file sharing with automatic expiry.">
+</picture></a>
 
-> Working beats perfect.
+**A file handoff, without another account.** Temporary file sharing with PIN-gated downloads, automatic expiry, QR sharing, and in-browser ZIP packaging for multiple files.
 
-</td>
-<td width="33%" align="center">
+**Engineering focus:** a React and Vite interface connected to a Cloudflare Workers API and R2 storage, with multipart uploads for larger payloads.
 
-### 📝 03 — Document
-<br/>
+[Try Tempload](https://tempload.app) · [Read the source](https://github.com/MaazSohail11/Tempload)
 
-_Document it like someone else_
-_has to run it tomorrow._
+<a id="engineering"></a>
 
-> Future-proof everything.
+## 02 / Under the hood
 
-</td>
-</tr>
-</table>
+The interesting part is connecting an idea to a complete workflow. Two projects that show how I approach that:
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### MediGuard · Explainable AI
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                      📝 SMALL NOTES                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/mediguard-mobile.svg">
+  <img src="./assets/mediguard.svg" width="100%" alt="MediGuard architecture: FDA drug-label evidence is retrieved with MiniLM and ChromaDB, analyzed by rules and a Random Forest, then combined into a source-linked explanation.">
+</picture>
+</p>
 
-<details>
-<summary><b>💭 small notes</b></summary>
+A local medication-safety research prototype that turns drug-label text into structured, traceable insights. It combines **MiniLM embeddings and ChromaDB retrieval**, **forward-chaining rules**, and a **Random Forest classifier** inside a Streamlit application.
 
-<br/>
+The output connects its risk assessment to retrieved evidence and triggered rules. Explanations use deterministic templates, making the decision path inspectable.
 
-<div align="center">
+**What this demonstrates:** data preprocessing, vector search, hybrid reasoning, and an interface that exposes the evidence behind a result.
 
-```
- ╔══════════════════════════════════════════════════════════════╗
- ║                                                              ║
- ║   I care about:                                              ║
- ║                                                              ║
- ║   🔹 simple products that solve boring but real problems     ║
- ║   🔹 readable repositories                                  ║
- ║   🔹 systems that connect frontend, backend, data & users   ║
- ║   🔹 privacy-first tools                                    ║
- ║   🔹 learning fast enough to stay useful                    ║
- ║                                                              ║
- ╚══════════════════════════════════════════════════════════════╝
-```
+[Explore MediGuard's architecture and source ↗](https://github.com/MaazSohail11/MediGuard-AI-Drug-Label-Safety-Agent)
 
-</div>
+### Drowsiness Detection · Vision meets hardware
 
-</details>
+<p>
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/drowsiness-mobile.svg">
+  <img src="./assets/drowsiness.svg" width="100%" alt="Drowsiness detection pipeline: camera frames become facial landmarks and an eye-state decision, which connects over Wi-Fi to an ESP32 buzzer and notifications.">
+</picture>
+</p>
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        🎬 FOOTER                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+A real-time prototype that connects **OpenCV and MediaPipe eye tracking** to an **ESP32 hardware buzzer**. Eye-aspect-ratio measurements and a duration threshold distinguish sustained eye closure from short blinks, with local audio and WhatsApp notifications alongside the hardware alert.
 
-<br/>
+**What this demonstrates:** frame processing, time-based decision logic, HTTP communication with a microcontroller, and coordination between software and physical outputs.
 
-<div align="center">
+[Explore the detection pipeline and hardware setup ↗](https://github.com/MaazSohail11/Drowsiness-Detection-System-with-ESP32)
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote=The%20best%20code%20is%20no%20code%20at%20all.%20The%20second%20best%20is%20code%20that%20works.&author=Maaz%20Sohail" />
+### More from the workbench
 
-<br/><br/>
+| Project | What I built and explored |
+| :--- | :--- |
+| **[Figma Screen Generator](https://github.com/MaazSohail11/Figma-Screen-generator)** | Programmatic mobile and desktop UI generation with JavaScript and the Figma Plugin API. Shared design tokens and element naming connect wireframes to higher-fidelity screens. |
+| **[TechRex Cloud](https://github.com/MaazSohail11/multi-user-cloud-storage)** | A self-hosted Flask file server with separate user storage, browser-based file management, and configurable sharing. A practical exploration of authentication and local-network workflows. |
+| **[SheSells Marketplace](https://github.com/MaazSohail11/Ecommerce-Marketplace-Database-Project)** | A PHP and MySQL database project connecting customer, seller, and admin workflows. Relational modeling, normalized carts and orders, and transactional checkout. |
+| **[PixelForge](https://github.com/MaazSohail11/PixelForge-DSP-Photo-Editor)** | A desktop photo editor with NumPy-based convolution, custom filter kernels, and point operations. Image-processing fundamentals connected to an interactive Python interface. |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,30:0f172a,60:1e3a5f,85:0ea5e9,100:38bdf8&strokeWidth=0" width="100%" />
+<a id="toolkit"></a>
 
-</div>
+## 03 / Tools, with a purpose
+
+| Area | My working toolkit |
+| :--- | :--- |
+| **Interfaces & applications** | JavaScript, React, Vite, HTML, CSS, Python, Flask, PHP |
+| **AI & data** | ChromaDB, MiniLM embeddings, scikit-learn, Streamlit, NumPy, MySQL |
+| **Vision & hardware** | OpenCV, MediaPipe, ESP32, Arduino, HTTP over Wi-Fi |
+| **Delivery & design** | Git, GitHub, Cloudflare Workers, R2, Figma Plugin API |
+
+## 04 / How I build
+
+**Understand the workflow.** Start with the actual task: who needs this, what gets in their way, and what a useful result looks like.
+
+**Connect the whole system.** Make the interface, logic, data, and outputs work together. Think through the awkward inputs and the next person who has to use it.
+
+**Refine and document.** Remove unnecessary steps, make the behavior understandable, and write down how to run and extend the project.
+
+---
+
+**Currently exploring:** AI-assisted workflows, practical automation, and the boundary between software and physical systems.
+
+Interested in how something works? Start with a repository—the architecture, implementation, and setup notes are part of the work.
+
+**[Browse my repositories ↗](https://github.com/MaazSohail11?tab=repositories)** &nbsp; · &nbsp; **[PDF Free Editor ↗](https://pdffreeeditor.com)** &nbsp; · &nbsp; **[Tempload ↗](https://tempload.app)**
+
+<img src="./assets/footer.svg" width="100%" alt="Maaz Sohail — Build thoughtfully. Make it useful.">
